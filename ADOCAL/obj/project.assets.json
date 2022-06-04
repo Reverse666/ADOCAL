@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sandro Diaz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\benja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandro Diaz\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
+      "projectUniqueName": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
       "projectName": "ADOCAL",
-      "projectPath": "C:\\Users\\Sandro Diaz\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
-      "packagesPath": "C:\\Users\\Sandro Diaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandro Diaz\\source\\repos\\ADOCAL\\ADOCAL\\obj\\",
+      "projectPath": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
+      "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sandro Diaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
