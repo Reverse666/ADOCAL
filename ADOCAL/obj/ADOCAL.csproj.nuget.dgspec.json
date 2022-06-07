@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj": {}
+    "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj": {
+    "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
+        "projectUniqueName": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
         "projectName": "ADOCAL",
-        "projectPath": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
+        "projectPath": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\ADOCAL.csproj",
         "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benja\\Source\\Repos\\ADOCAL\\ADOCAL\\obj\\",
+        "outputPath": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
