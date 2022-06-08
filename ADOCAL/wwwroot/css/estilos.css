@@ -1,7 +1,5 @@
 ﻿body {
-
-    margin: 0;
-    padding: 0;
+    margin-top: auto;
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
@@ -165,8 +163,7 @@ main {
     /*Formularios*/
 
     .contenedor__login-register {
-        top: -10px;
-        left: -5px;
+        
         margin: auto;
     }
 
