@@ -1,7 +1,7 @@
 ﻿body {
     margin: 0;
     padding: 0;
-    background-color: #17a2b8;
+    background-color: #4fcfcf;
     height: 100vh;
 }
 
@@ -20,6 +20,11 @@
         #login .container #login-row #login-column #login-box #login-form #register-link {
             margin-top: -85px;
         }
+
+#login-box {
+    box-shadow: 5px 5px 10px 1px;
+}
+
 
         /*DE AQUI EN ADELANTE ERA EL LOGIN ANTES DEL CAMBIO QUE HICE --- ATTE BENJA ---*/
 /*body {
