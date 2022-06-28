@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "03MJyTdu5GEPU5VHaVRRIC5Lhx70RdCSj0R1br2hTKM=",
+  "Hash": "viEUOevRj+/Dp+/3c7ZjqwfLRQM2eN98yYj6/z0jfmM=",
   "Source": "ADOCAL",
   "BasePath": "_content/ADOCAL",
   "Mode": "Default",
@@ -66,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\estilos.css"
-    },
-    {
-      "Identity": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\wwwroot\\css\\site.css",
-      "SourceId": "ADOCAL",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\wwwroot\\",
-      "BasePath": "_content/ADOCAL",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
       "Identity": "C:\\Users\\benja\\source\\repos\\ADOCAL\\ADOCAL\\wwwroot\\favicon.ico",
